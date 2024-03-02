@@ -1,0 +1,16 @@
+{
+    "name": "Click Chuckles",
+    "description": "Get a new joke on each click",
+    "version": "0.0.1",
+    "manifest_version": 3,
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": "trollface.png"
+    },
+    "permissions": ["activeTab"],
+    "icons" : {
+        "16" : "trollface.png",
+        "48" : "trollface.png",
+        "128" : "trollface.png"
+    }
+  }
